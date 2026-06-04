@@ -1,0 +1,11 @@
+Product_ID,Category,Brand,Price_Range,Tags
+Laptop,Electronics,TechBrand,High,portable computing performance fast
+Mouse,Accessories,PeriphBrand,Low,input device ergonomic portable
+Keyboard,Accessories,PeriphBrand,Low,input device typing mechanical
+Headphones,Audio,SoundBrand,Medium,audio music wireless portable
+Speaker,Audio,SoundBrand,Medium,audio music wireless sound
+Monitor,Electronics,TechBrand,High,display screen visual computing
+Webcam,Accessories,PeriphBrand,Low,video camera streaming portable
+USB_Hub,Accessories,PeriphBrand,Low,connectivity ports portable device
+SSD,Electronics,TechBrand,Medium,storage fast performance computing
+GPU,Electronics,TechBrand,High,graphics performance computing visual
